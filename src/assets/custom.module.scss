@@ -1,0 +1,29 @@
+// Required
+
+@import "~bootstrap/scss/_functions";
+@import "~bootstrap/scss/_variables";
+@import "~bootstrap/scss/_mixins";
+
+$pagination-color: $gray-800;
+$pagination-hover-color: $gray-600;
+$pagination-active-bg: $green;
+$pagination-active-border-color: $green;
+$pagination-active-color: $white;
+$border-radius: 0;
+$pagination-focus-box-shadow: 0 0 0 $input-btn-focus-width rgba($green, .25);
+
+// Optional
+
+@import "~bootstrap/scss/_root";
+@import "~bootstrap/scss/_reboot";
+@import "~bootstrap/scss/_type";
+@import "~bootstrap/scss/_grid";
+@import "~bootstrap/scss/_forms";
+@import "~bootstrap/scss/_custom-forms";
+@import "~bootstrap/scss/_buttons";
+@import "~bootstrap/scss/_tables";
+@import "~bootstrap/scss/_navbar";
+@import "~bootstrap/scss/_pagination";
+@import "~bootstrap/scss/_spinners";
+@import "~bootstrap/scss/_utilities";
+

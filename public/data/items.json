@@ -1,0 +1,139 @@
+{
+  "schema": {
+    "artnumber": "vendor code",
+    "name": "name",
+    "brand": "brand",
+    "weight": "weight, gm",
+    "quantity": "quantity",
+    "price": "price",
+    "stock": "stock"
+  },
+  "items": [
+    {
+      "artnumber": "1ASUS",
+      "name": "ASUS ZenBook 13 Ultra Slim Laptop",
+      "brand": "Asus",
+      "weight": 100,
+      "quantity": 10,
+      "price": "$999.00",
+      "stock": 0
+    },
+    {
+      "artnumber": "2DELL",
+      "name": "Dell XPS 15 laptop 15.6\"",
+      "brand": "Dell",
+      "weight": 200,
+      "quantity": 20,
+      "price": "$1,998.49",
+      "stock": 0
+    },
+    {
+      "artnumber": "3APPLE",
+      "name": "Apple MacBook Air",
+      "brand": "Apple",
+      "weight": 300,
+      "quantity": 30,
+      "price": "$749.99",
+      "stock": 1
+    },
+    {
+      "artnumber": "4HP",
+      "name": "HP 15-Inch HD Touchscreen Laptop",
+      "brand": "HP",
+      "weight": 400,
+      "quantity": 40,
+      "price": "$585.00",
+      "stock": 1
+    },
+    {
+      "artnumber": "5HP",
+      "name": "HP 15-Inch HD Touchscreen Laptop",
+      "brand": "HP",
+      "weight": 400,
+      "quantity": 40,
+      "price": "$585.00",
+      "stock": 1
+    },
+    {
+      "artnumber": "6ASUS",
+      "name": "ASUS ZenBook 13 Ultra Slim Laptop",
+      "brand": "Asus",
+      "weight": 100,
+      "quantity": 10,
+      "price": "$999.00",
+      "stock": 0
+    },
+    {
+      "artnumber": "7DELL",
+      "name": "Dell XPS 15 laptop 15.6\"",
+      "brand": "Dell",
+      "weight": 200,
+      "quantity": 20,
+      "price": "$1,998.49",
+      "stock": 0
+    },
+    {
+      "artnumber": "8APPLE",
+      "name": "Apple MacBook Air",
+      "brand": "Apple",
+      "weight": 300,
+      "quantity": 30,
+      "price": "$749.99",
+      "stock": 1
+    },
+    {
+      "artnumber": "9APPLE",
+      "name": "Apple MacBook Air",
+      "brand": "Apple",
+      "weight": 300,
+      "quantity": 30,
+      "price": "$749.99",
+      "stock": 1
+    },
+    {
+      "artnumber": "10HP",
+      "name": "HP 15-Inch HD Touchscreen Laptop",
+      "brand": "HP",
+      "weight": 400,
+      "quantity": 40,
+      "price": "$585.00",
+      "stock": 1
+    },
+    {
+      "artnumber": "11ASUS",
+      "name": "ASUS ZenBook 13 Ultra Slim Laptop",
+      "brand": "Asus",
+      "weight": 100,
+      "quantity": 10,
+      "price": "$999.00",
+      "stock": 0
+    },
+    {
+      "artnumber": "12DELL",
+      "name": "Dell XPS 15 laptop 15.6\"",
+      "brand": "Dell",
+      "weight": 200,
+      "quantity": 20,
+      "price": "$1,998.49",
+      "stock": 0
+    },
+    {
+      "artnumber": "13DELL",
+      "name": "Dell XPS 15 laptop 15.6\"",
+      "brand": "Dell",
+      "weight": 200,
+      "quantity": 20,
+      "price": "$1,998.49",
+      "stock": 0
+    },
+    {
+      "artnumber": "14ASUS",
+      "name": "ASUS ZenBook 13 Ultra Slim Laptop",
+      "brand": "Asus",
+      "weight": 100,
+      "quantity": 10,
+      "price": "$999.00",
+      "stock": 0
+    }
+  ]
+}
